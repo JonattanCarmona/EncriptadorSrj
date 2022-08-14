@@ -14,6 +14,7 @@ function botonDesencriptar(){
     document.getElementById("muneco").style.display = "none";
     document.getElementById("ningunmensaje").style.display = "none";
     document.getElementById("mensajesintexto").innerHTML = textoCifrado;
+    document.getElementById("mensajesintexto").style.height = "90%";
     document.getElementById("copiar").style.display = "show";
     document.getElementById("copiar").style.display = "inherit";
 }
