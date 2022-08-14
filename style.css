@@ -22,12 +22,14 @@ main{
     margin-right: 3%;
         
 }
+
 .ingresotexto p{
     margin-top: 35%;
     padding: 2% 0;
     font-size: 100%;
     color: #495057;
     line-height: 150%;
+
 
 }
 .input{
@@ -85,10 +87,16 @@ main{
     background-color: white;
     border-radius: 32px;
 }
+.muneco{
+    width: 90%;
+    margin-bottom: 2em;
+    margin-top: 3em;
+}
 .ningunmensaje{
     font-weight: bold;
     font-size: 30px;
     line-height: 120%;
+    margin-bottom: 1em;
 }
 .mensajesintexto{
     font-size: 24px;
